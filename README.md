@@ -30,9 +30,9 @@ A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-
 
 Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 
-`ext install jean.desaturated`
+`ext install jean.day-shift-theme`
 
-Or install this theme from the extension panel : search for "_desaturated theme_".
+Or install this theme from the extension panel : search for "_day shift theme_".
 
 You can find this theme in the Visual Studio Code Marketplace.
 
