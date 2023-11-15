@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.0.5
+
+- Update readme colors
+- Fix editor' search result highlight color
+
 ## 1.0.4
 
 - Update status bar colors
