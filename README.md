@@ -29,7 +29,7 @@ A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-
 | ![#e0b972](https://placehold.co/15/e0b972/000000?text=.) Yellow         | `#e0b972` | Function names - Regex - JSON property name - CSS transition name, ID selector - Inherited classes - Language variables |
 | ![#ad82cb](https://placehold.co/15/ad82cb/000000?text=.) Magenta        | `#ad82cb` | Constants - Pseudo CSS - Keywords                                                                                       |
 | ![#2fc2c3](https://placehold.co/15/2fc2c3/000000?text=.) Cyan           | `#2fc2c3` | Tags selector                                                                                                           |
-| ![#FFF9EE](https://placehold.co/15/FFF9EE/000000?text=.) White / yellow | `#FFF9EE` | Variables names                                                                                                         |
+| ![#fff9ee](https://placehold.co/15/fff9ee/000000?text=.) White / yellow | `#fff9ee` | Variables names                                                                                                         |
 
 ## Installation
 
