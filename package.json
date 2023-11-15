@@ -3,7 +3,7 @@
   "displayName": "Day Shift Theme",
   "description": "A clean desaturated vscode light theme.",
   "icon": "assets/logo.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jean-Tinland/vscode-theme-day-shift.git"

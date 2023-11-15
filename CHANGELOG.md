@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.4
+
+- Update status bar colors
+- Change sidebar badge background color from dark blue to yellow
+- Change active line number color from dark blue to yellow
+
 ## 1.0.3
 
 - Improve sidebar contrast & visibility
