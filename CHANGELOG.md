@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.0.7
+
+- Fix copilot insert zone background color
+- Switch button foregeground color to white
+- Update active line number color
+- Fix search editor find match background
+
 ## 1.0.6
 
 - Add customization section in readme
