@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.8
+
+- Fix editor hover highlight background color
+
 ## 1.0.7
 
 - Fix copilot insert zone background color
