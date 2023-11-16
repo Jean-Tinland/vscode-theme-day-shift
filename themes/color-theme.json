@@ -37,7 +37,7 @@
     "gitDecoration.deletedResourceForeground": "#e78482",
     "gitDecoration.ignoredResourceForeground": "#14141441",
     "gitDecoration.modifiedResourceForeground": "#e0b972",
-    "gitDecoration.untrackedResourceForeground": "#ad82cb",
+    "gitDecoration.untrackedResourceForeground": "#e0b972",
     "inputOption.activeBorder": "#e0b972",
     "list.activeSelectionBackground": "#1e273713",
     "list.activeSelectionForeground": "#1e2737",
@@ -54,8 +54,8 @@
     "list.inactiveFocusBackground": "#1e273713",
     "list.inactiveSelectionBackground": "#1e273713",
     "list.inactiveSelectionForeground": "#1e2737",
-    "list.invalidItemForeground": "#fff9eede",
-    "list.warningForeground": "#fff9eede",
+    "list.invalidItemForeground": "#e0b972",
+    "list.warningForeground": "#e0b972",
     "scrollbar.shadow": "#00000000",
     "sideBar.background": "#fafbfc",
     "sideBar.border": "#e1e4e8",
@@ -104,7 +104,7 @@
       "scope": "comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#39465e"
+        "foreground": "#98a8c5"
       }
     },
     {

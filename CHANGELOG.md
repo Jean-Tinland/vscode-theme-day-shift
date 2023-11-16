@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.0.6
+
+- Add customization section in readme
+- Decrease comment color tint
+- Update git decorations colors
+- Fix file with error/warn color in list & tree views
+
 ## 1.0.5
 
 - Update readme colors

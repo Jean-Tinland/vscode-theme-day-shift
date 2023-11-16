@@ -41,6 +41,35 @@ Or install this theme from the extension panel : search for "_day shift theme_".
 
 You can find this theme in the Visual Studio Code Marketplace.
 
+## Customization
+
+If you want to get rid of all bold or italic text, you can add these lines to your `settings.json` file :
+
+```json
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      // Remove bold
+      {
+        "name": "Function names",
+        "scope": "entity.name.function",
+        "settings": {
+          "fontStyle": "",
+        }
+      },
+      // Remove italics
+      {
+        "name": "Comments",
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "",
+        }
+      }
+    ]
+  },
+```
+
+If you want to override anything else, you can see all the style definitions [here](https://github.com/Jean-Tinland/vscode-theme-day-shift/blob/main/themes/color-theme.json#L101) in the github repo.
+
 ## Support
 
 As I work mainly with **Javascript**, **Typescript**, **HTML/CSS** & **PHP**, these are for now the only fully supported languages.
