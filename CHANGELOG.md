@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.9
+
+- Fix focus border color
+
 ## 1.0.8
 
 - Fix editor hover highlight background color

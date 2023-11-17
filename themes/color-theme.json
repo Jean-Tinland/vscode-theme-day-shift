@@ -31,7 +31,7 @@
     "editorIndentGuide.background1": "#eeeeee",
     "editorLineNumber.foreground": "#cccccc",
     "editorLineNumber.activeForeground": "#1e2737",
-    "focusBorder": "#fafbfc",
+    "focusBorder": "#1e2737",
     "gitDecoration.addedResourceForeground": "#8fc8bb",
     "gitDecoration.deletedResourceForeground": "#e78482",
     "gitDecoration.ignoredResourceForeground": "#14141441",
