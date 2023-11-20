@@ -9,6 +9,7 @@ In order to stay soft to the eyes, it uses a desaturated color palette and uses 
 Visit [Night Shift website](https://jean-tinland.github.io/night-shift-demo/) for more info. You can find the dark version of this theme [here](https://marketplace.visualstudio.com/items?itemName=jean.desaturated).
 
 You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/iTerm2-theme-desaturated).\
+A Warp Terminal port is available [here](https://github.com/Jean-Tinland/warp-night-shift-theme).\
 A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-theme-desaturated).
 
 ## Preview
@@ -29,7 +30,6 @@ A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-
 | ![#e0b972](https://placehold.co/15/e0b972/000000?text=.) Yellow         | `#e0b972` | Function names - Regex - JSON property name - CSS transition name, ID selector - Inherited classes - Language variables |
 | ![#ad82cb](https://placehold.co/15/ad82cb/000000?text=.) Magenta        | `#ad82cb` | Constants - Pseudo CSS - Keywords                                                                                       |
 | ![#2fc2c3](https://placehold.co/15/2fc2c3/000000?text=.) Cyan           | `#2fc2c3` | Tags selector                                                                                                           |
-| ![#fff9ee](https://placehold.co/15/fff9ee/000000?text=.) White / yellow | `#fff9ee` | Variables names                                                                                                         |
 
 ## Installation
 
@@ -37,7 +37,7 @@ Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 
 `ext install jean.day-shift-theme`
 
-Or install this theme from the extension panel : search for "_day shift theme_".
+Or install this theme from the extension panel : search for "_Day Shift Theme_".
 
 You can find this theme in the Visual Studio Code Marketplace.
 

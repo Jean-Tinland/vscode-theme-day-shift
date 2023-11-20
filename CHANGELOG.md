@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.10
+
+- Update readme
+
 ## 1.0.9
 
 - Fix focus border color
