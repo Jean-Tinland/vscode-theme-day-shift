@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.11
+
+- Remove static types color and provided values colors
+- Update strings color
+- Update readme
+
 ## 1.0.10
 
 - Update readme

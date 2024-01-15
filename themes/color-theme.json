@@ -144,13 +144,6 @@
       }
     },
     {
-      "name": "Static types",
-      "scope": ["entity.name.type", "storage.type.cs"],
-      "settings": {
-        "foreground": "#e0b972"
-      }
-    },
-    {
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
@@ -320,7 +313,7 @@
       "name": "Storage keywords",
       "scope": "storage",
       "settings": {
-        "foreground": "#74829b"
+        "foreground": "#39465e"
       }
     },
     {
@@ -342,28 +335,6 @@
       "scope": "string.other.link",
       "settings": {
         "foreground": "#39465e"
-      }
-    },
-    {
-      "name": "Provided (support) values",
-      "scope": "support",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#6db3ce"
-      }
-    },
-    {
-      "name": "Provided functions",
-      "scope": "support.function",
-      "settings": {
-        "foreground": "#8fc8bb"
-      }
-    },
-    {
-      "name": "Provieded variables",
-      "scope": "support.variable",
-      "settings": {
-        "foreground": "#8fc8bb"
       }
     },
     {
