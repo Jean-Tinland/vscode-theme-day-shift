@@ -320,7 +320,7 @@
       "name": "Strings",
       "scope": ["string.quoted", "string.template"],
       "settings": {
-        "foreground": "#98a8c5"
+        "foreground": "#74829b"
       }
     },
     {
@@ -349,6 +349,13 @@
       "scope": "support.type.property-name.css",
       "settings": {
         "foreground": "#39465e"
+      }
+    },
+    {
+      "name": "(S)CSS support functions",
+      "scope": ["support.function.misc.scss", "support.function.misc.css"],
+      "settings": {
+        "foreground": "#8fc8bb"
       }
     },
     {

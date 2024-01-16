@@ -18,18 +18,17 @@ A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-
 
 ## Colors
 
-| Color                                                                   | Hex Code  | Used for                                                                                                                                 |
-| ----------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| ![#1e2737](https://placehold.co/15/1e2737/000000?text=.) Deep dark blue | `#1e2737` | Variable names                                                                                                                           |
-| ![#39465e](https://placehold.co/15/39465e/000000?text=.) Dark blue      | `#39465e` | Comments - Names entities - SCSS include, mixins params & parenthesis - CSS units - Regex - Parameters - Tag brackets - Storage keywords |
-| ![#74829b](https://placehold.co/15/74829b/000000?text=.) Medium blue    | `#74829b` | Template expressions                                                                                                                     |
-| ![#98a8c5](https://placehold.co/15/98a8c5/000000?text=.) Light blue     | `#98a8c5` | Strings                                                                                                                                  |
-| ![#6db3ce](https://placehold.co/15/6db3ce/000000?text=.) Blue           | `#6db3ce` | Tag brackets - Escape characters - Operators - Special operators                                                                         |
-| ![#e78482](https://placehold.co/15/e78482/000000?text=.) Red            | `#e78482` | Tag attributes - Units - Pseudo CSS                                                                                                      |
-| ![#8fc8bb](https://placehold.co/15/8fc8bb/000000?text=.) Green          | `#8fc8bb` | Static types - CSS constant variables                                                                                                    |
-| ![#e0b972](https://placehold.co/15/e0b972/000000?text=.) Yellow         | `#e0b972` | Function names - Regex - JSON property name - CSS transition name, ID selector - Inherited classes - Language variables                  |
-| ![#ad82cb](https://placehold.co/15/ad82cb/000000?text=.) Magenta        | `#ad82cb` | Constants - Pseudo CSS - Keywords                                                                                                        |
-| ![#2fc2c3](https://placehold.co/15/2fc2c3/000000?text=.) Cyan           | `#2fc2c3` | Tags selector                                                                                                                            |
+| Color                                                                   | Hex Code  | Used for                                                                                                              |
+| ----------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
+| ![#1e2737](https://placehold.co/15/1e2737/000000?text=.) Deep dark blue | `#1e2737` | Variable names                                                                                                        |
+| ![#39465e](https://placehold.co/15/39465e/000000?text=.) Dark blue      | `#39465e` | Comments - Names entities - SCSS include, mixins params & parenthesis - CSS units - Regex - Parameters - Tag brackets |
+| ![#74829b](https://placehold.co/15/74829b/000000?text=.) Medium blue    | `#74829b` | Template expressions - Strings - Storage keywords                                                                     |
+| ![#6db3ce](https://placehold.co/15/6db3ce/000000?text=.) Blue           | `#6db3ce` | Tag brackets - Escape characters - Operators - Special operators                                                      |
+| ![#e78482](https://placehold.co/15/e78482/000000?text=.) Red            | `#e78482` | Tag attributes - Units - Pseudo CSS                                                                                   |
+| ![#8fc8bb](https://placehold.co/15/8fc8bb/000000?text=.) Green          | `#8fc8bb` | Static types - CSS constant variables                                                                                 |
+| ![#e0b972](https://placehold.co/15/e0b972/000000?text=.) Yellow         | `#e0b972` | Function names - JSON property name - CSS transition name, ID selector - Inherited classes - Language variables       |
+| ![#ad82cb](https://placehold.co/15/ad82cb/000000?text=.) Magenta        | `#ad82cb` | Constants - Pseudo CSS - Keywords                                                                                     |
+| ![#2fc2c3](https://placehold.co/15/2fc2c3/000000?text=.) Cyan           | `#2fc2c3` | Tags selector                                                                                                         |
 
 ## Installation
 

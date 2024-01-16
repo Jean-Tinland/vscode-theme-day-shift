@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.12
+
+- Add green color for (S)CSS support functions
+- Update strings color
+- Update readme
+
 ## 1.0.11
 
 - Remove static types color and provided values colors
