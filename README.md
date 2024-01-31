@@ -22,7 +22,7 @@ A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-
 | ----------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
 | ![#1e2737](https://placehold.co/15/1e2737/000000?text=.) Deep dark blue | `#1e2737` | Variable names                                                                                                        |
 | ![#39465e](https://placehold.co/15/39465e/000000?text=.) Dark blue      | `#39465e` | Comments - Names entities - SCSS include, mixins params & parenthesis - CSS units - Regex - Parameters - Tag brackets |
-| ![#74829b](https://placehold.co/15/74829b/000000?text=.) Medium blue    | `#74829b` | Template expressions - Strings - Storage keywords                                                                     |
+| ![#74829b](https://placehold.co/15/74829b/000000?text=.) Medium blue    | `#74829b` | Template expressions - Strings - Storage keywords - CSS class selector                                                |
 | ![#6db3ce](https://placehold.co/15/6db3ce/000000?text=.) Blue           | `#6db3ce` | Tag brackets - Escape characters - Operators - Special operators                                                      |
 | ![#e78482](https://placehold.co/15/e78482/000000?text=.) Red            | `#e78482` | Tag attributes - Units - Pseudo CSS                                                                                   |
 | ![#8fc8bb](https://placehold.co/15/8fc8bb/000000?text=.) Green          | `#8fc8bb` | Static types - CSS constant variables                                                                                 |

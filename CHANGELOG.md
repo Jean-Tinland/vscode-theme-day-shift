@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.0.13
+
+- Update CSS class selector color (green > dark/medium blue)
+- Update yellow color (darkened for better readability on white background)
+- Add terminal bright color scheme
+- Update readme
+
 ## 1.0.12
 
 - Add green color for (S)CSS support functions
