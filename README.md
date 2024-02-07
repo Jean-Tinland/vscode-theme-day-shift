@@ -6,7 +6,9 @@ This theme's main goal is to provide a light, readable & clean experience into y
 
 In order to stay soft to the eyes, it uses a desaturated color palette and uses only bold characters for function names as they are what describes your code the better.
 
-Visit [Night Shift website](https://jean-tinland.github.io/night-shift-demo/) for more info. You can find the dark version of this theme [here](https://marketplace.visualstudio.com/items?itemName=jean.desaturated).
+Visit [Night Shift website](https://www.jeantinland.com/toolbox/day-shift-theme/) for more info.
+
+You can find the dark version of this theme [here](https://marketplace.visualstudio.com/items?itemName=jean.desaturated).
 
 You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/iTerm2-theme-desaturated).\
 A Warp Terminal port is available [here](https://github.com/Jean-Tinland/warp-night-shift-theme).\

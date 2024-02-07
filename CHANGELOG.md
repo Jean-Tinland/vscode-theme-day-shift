@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.15
+
+- Update website link in readme
+
 ## 1.0.14
 
 - Reduce editor selection background opacity
