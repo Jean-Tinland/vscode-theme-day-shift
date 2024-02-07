@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.0.14
+
+- Reduce editor selection background opacity
+- Update readme
+
 ## 1.0.13
 
 - Update CSS class selector color (green > dark/medium blue)
