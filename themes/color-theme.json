@@ -109,28 +109,45 @@
     },
     {
       "name": "Constants",
-      "scope": "constant",
+      "scope": [
+        "constant",
+        "constant.numeric.bin.python",
+        "storage.type.number.python"
+      ],
       "settings": {
         "foreground": "#ad82cb"
       }
     },
     {
       "name": "Escape characters",
-      "scope": "constant.character.escape",
+      "scope": ["constant.character.escape", "constant.language.python"],
       "settings": {
         "foreground": "#6db3ce"
       }
     },
     {
       "name": "Named entities",
-      "scope": "entity.name",
+      "scope": [
+        "entity.name",
+        "punctuation.definition.arguments.begin.python",
+        "punctuation.definition.arguments.end.python",
+        "meta.function-call.arguments.python",
+        "punctuation.definition.list.begin.python",
+        "punctuation.definition.list.end.python"
+      ],
       "settings": {
-        "foreground": "#39465e"
+        "foreground": "#39465e",
+        "fontStyle": ""
       }
     },
     {
       "name": "Function names",
-      "scope": "entity.name.function",
+      "scope": [
+        "entity.name.function",
+        "entity.name.type.class.python",
+        "meta.function-call.python",
+        "support.function.magic.python"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#d1ab66"
@@ -144,8 +161,8 @@
       }
     },
     {
-      "name": "Tag attributes",
-      "scope": "entity.other.attribute-name",
+      "name": "Tag attributes & Python exeptions",
+      "scope": ["entity.other.attribute-name", "support.type.exception.python"],
       "settings": {
         "foreground": "#e78482"
       }
@@ -240,7 +257,11 @@
     },
     {
       "name": "Keywords",
-      "scope": "keyword",
+      "scope": [
+        "keyword",
+        "storage.type.function.python",
+        "storage.type.class.python"
+      ],
       "settings": {
         "foreground": "#ad82cb"
       }
@@ -318,23 +339,14 @@
     },
     {
       "name": "Strings",
-      "scope": ["string.quoted", "string.template"],
+      "scope": [
+        "string.quoted",
+        "string.template",
+        "storage.type.string.python",
+        "string.regexp.quoted.single.python"
+      ],
       "settings": {
         "foreground": "#74829b"
-      }
-    },
-    {
-      "name": "Regex",
-      "scope": "string.regexp",
-      "settings": {
-        "foreground": "#39465e"
-      }
-    },
-    {
-      "name": "Markup link descriptions",
-      "scope": "string.other.link",
-      "settings": {
-        "foreground": "#39465e"
       }
     },
     {
@@ -342,13 +354,6 @@
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
         "foreground": "#d1ab66"
-      }
-    },
-    {
-      "name": "CSS property names",
-      "scope": "support.type.property-name.css",
-      "settings": {
-        "foreground": "#39465e"
       }
     },
     {
@@ -366,29 +371,16 @@
       }
     },
     {
-      "name": "Parameters",
-      "scope": "variable.parameter",
-      "settings": {
-        "foreground": "#39465e"
-      }
-    },
-    {
-      "name": "Embedded template punctuation",
-      "scope": "string.template meta.embedded",
-      "settings": {
-        "foreground": "#39465e"
-      }
-    },
-    {
-      "name": "Tag brackets",
-      "scope": "punctuation.definition.tag",
-      "settings": {
-        "foreground": "#39465e"
-      }
-    },
-    {
-      "name": "Key/value separators",
-      "scope": "punctuation.separator",
+      "name": "CSS property names, Tag brackets, Key/value separators, Embedded template punctuation, Parameters, Regex, Markup link descriptions",
+      "scope": [
+        "support.type.property-name.css",
+        "punctuation.definition.tag",
+        "punctuation.separator",
+        "string.template meta.embedded",
+        "variable.parameter",
+        "string.regexp",
+        "string.other.link"
+      ],
       "settings": {
         "foreground": "#39465e"
       }

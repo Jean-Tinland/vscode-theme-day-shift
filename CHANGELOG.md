@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.0
+
+- Add Python support
+- Update readme
+
 ## 1.0.15
 
 - Update website link in readme
