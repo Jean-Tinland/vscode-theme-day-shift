@@ -101,7 +101,7 @@
   "tokenColors": [
     {
       "name": "Comments",
-      "scope": "comment",
+      "scope": ["comment", "keyword.codetag.notation.python"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#98a8c5"
@@ -119,7 +119,7 @@
       }
     },
     {
-      "name": "Escape characters",
+      "name": "Escape characters & Python constants",
       "scope": ["constant.character.escape", "constant.language.python"],
       "settings": {
         "foreground": "#6db3ce"

@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.1
+
+- Misc string color fixes for Python comments
+- Add some better rule names in color-theme.json
+
 ## 1.1.0
 
 - Add Python support
