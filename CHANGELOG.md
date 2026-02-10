@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.2
+
+- Add contrast border to theme
+- Remove unused (deprecated) inline chat highlight
+
 ## 1.1.1
 
 - Misc string color fixes for Python comments
