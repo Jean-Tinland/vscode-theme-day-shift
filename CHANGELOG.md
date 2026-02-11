@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.3
+
+- Update untracked resource foreground color
+- Update foreground color for strings
+- Update foreground color for comments
+
 ## 1.1.2
 
 - Add contrast border to theme
