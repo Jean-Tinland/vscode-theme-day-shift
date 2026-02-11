@@ -104,7 +104,7 @@
       "scope": ["comment", "keyword.codetag.notation.python"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#98a8c5"
+        "foreground": "#74829b"
       }
     },
     {
