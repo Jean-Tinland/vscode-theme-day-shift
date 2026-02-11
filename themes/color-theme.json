@@ -37,7 +37,7 @@
     "gitDecoration.deletedResourceForeground": "#e78482",
     "gitDecoration.ignoredResourceForeground": "#14141441",
     "gitDecoration.modifiedResourceForeground": "#d1ab66",
-    "gitDecoration.untrackedResourceForeground": "#d1ab66",
+    "gitDecoration.untrackedResourceForeground": "#ad82cb",
     "inputOption.activeBorder": "#d1ab66",
     "list.activeSelectionBackground": "#1e273713",
     "list.activeSelectionForeground": "#1e2737",
